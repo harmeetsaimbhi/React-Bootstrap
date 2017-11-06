@@ -10,3 +10,8 @@
 - Just go to App.jsx and look for imports and implementation in render() method.
 Ignore rest of the files, those files are for my own practice.
 
+- For further information about react-bootstrap, please follow these links:
+
+        https://react-bootstrap.github.io/getting-started.html
+        https://react-bootstrap.github.io/components.html
+        
