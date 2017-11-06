@@ -5,7 +5,6 @@
 - $ npm install --save react-bootstrap
 - Including prosoft style sheet in index.html, this will override bootstrap's css classes.
 
--  <!-- Latest compiled and minified prosoft CSS  -->
   <link rel="stylesheet" href="https://d260ckbc6brolt.cloudfront.net/prosoft-ui/branches/origin/rebranding/css/prosoft-ui.min.css">
 
 - Just go to App.jsx and look for imports and implementation in render() method.
