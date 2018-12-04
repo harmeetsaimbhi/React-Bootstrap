@@ -10,7 +10,7 @@ class App extends Component {
     super(props);
     this.state = {
       appName: ' Bootstrap Tutorial ',
-      deadline: 'December 25, 2017'
+      deadline: 'December 26, 2017'
     }
 
 }
